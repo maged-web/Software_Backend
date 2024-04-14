@@ -1,2 +1,2 @@
 # Software_Backend
-Library backend project OOP
+Library system for reading books using OOP with MVC and promise 
